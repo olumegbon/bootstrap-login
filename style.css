@@ -1,0 +1,28 @@
+.card{margin-top: 2em;}
+
+.card-img-top{height:600px;}
+form a{margin-left: 15em;
+text-decoration: none;
+color: black;}
+
+ form{height:600px; 
+padding: 1em;
+}
+
+.button{background-color: rgb(78, 77, 77);
+    width: 200px;
+border: none;
+color: white;
+text-align: center;
+text-decoration: none;
+font-size: 16px;
+border-radius: 20px;
+margin-left: 100px;
+padding: 10px;
+align-items: center;}
+
+form h6{text-align: center;}
+.a{text-decoration-line: underline;
+    height: 0;
+color: rgb(23, 36, 4);
+margin:0;}
